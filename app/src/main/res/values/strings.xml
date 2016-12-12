@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StaticFragments</string>
+    <string name="fragment_a">fragment_A</string>
+    <string name="fragment_b">Fragment_B</string>
+    <string name="html">
+        <![CDATA[
+        <!DOCTYPE html>
+            <head>
+            </head>
+            <body>
+                <header>
+                    <h1>Fragment C</h1>
+                </header>
+                <article>
+                    <p>Hola mundo</p>
+                </article>
+            </body>
+        </html>
+        ]]>
+    </string>
+    <string name="fragment_c">fragmentC</string>
+</resources>
